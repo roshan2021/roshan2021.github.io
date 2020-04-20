@@ -1,3 +1,7 @@
 .idea
 *.iml
 js/keys.js
+
+.assets
+.images
+index2.html

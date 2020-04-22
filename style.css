@@ -1,0 +1,66 @@
+
+
+
+.navbar-light .navbar-nav .nav-link{
+    color: #9ed8c5;
+}
+.navbar-light .navbar-nav .active >.nav-link{
+    color: #9ed8c5;
+}
+
+
+#nav-toggle-button{
+    border-color: #9ed8c5;
+    color: #9ed8c5;
+}
+
+.nav-link:hover{
+    padding: 1px;
+}
+
+/*#hamburger-icon{*/
+/*    border-color: #9ed8c5;*/
+/*    color: #9ed8c5;*/
+/*}*/
+
+
+
+
+
+main{
+    background: url("kauai.JPG");
+    background-size: 100% 100%;
+    width:100%;
+    height: 100vh;
+    font-family: 'Helvetica', sans-serif;
+}
+
+.aboutMe{
+
+    padding-top:100px;
+    background: transparent;
+    color: #9ed8c5;
+}
+
+
+/*.site-content{*/
+/*    background-image: url('kauai.JPG');*/
+/*    background-attachment: fixed;*/
+/*    background-size: cover;*/
+/*}*/
+
+/*.site-desc {*/
+/*    padding-top: 200px;*/
+/*    height: 700px;*/
+/*}*/
+
+
+
+/*.site-title, .site-desc {*/
+/*    color: white;*/
+/*    !*font-family:*!*/
+/*}*/
+
+.bg-light {
+    background-color: transparent!important;
+}
